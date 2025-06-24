@@ -69,27 +69,37 @@ pip install .
 
 Exemplo 1 <br>
 ![Exemplo 1](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_1.png)
+
+![Exemplo 1](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_1a.png)
 <br>
 Exemplo 2<br>
 ![Exemplo 2](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_2.png)
+![Exemplo 2](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_2a.png)
 <br>
 Exemplo 3<br>
 ![Exemplo 3](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_3.png)
+![Exemplo 3](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_3a.png)
 <br>
 Exemplo 4<br>
 ![Exemplo 4](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_4.png)
+![Exemplo 4](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_4a.png)
 <br>
 
 <br>
 Exemplo 5<br>
 ![Exemplo 5](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_5.png)
+![Exemplo 5](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_5a.png)
 
 <br>
 Exemplo 6<br>
 ![Exemplo 6](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_6.png)
+![Exemplo 6](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_6a.png)
 
 <br>
 Exemplo 7<br>
 ![Exemplo 7](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_7.png)
+![Exemplo 7](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_7a.png)
+
+
 
 
