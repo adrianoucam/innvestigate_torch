@@ -74,22 +74,22 @@ Exemplo 2<br>
 ![Exemplo 2](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_2.png)
 <br>
 Exemplo 3<br>
-![Exemplo 3]([ Figure_3.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_3.png))
+![Exemplo 3](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_3.png)
 <br>
 Exemplo 4<br>
-![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_4.png))
+![Exemplo 4](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_4.png)
 <br>
 
 <br>
-Exemplo 4<br>
-![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_5.png))
+Exemplo 5<br>
+![Exemplo 5](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_5.png)
 
 <br>
-Exemplo 4<br>
-![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_6.png))
+Exemplo 6<br>
+![Exemplo 6](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_6.png)
 
 <br>
-Exemplo 4<br>
-![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_7.png))
+Exemplo 7<br>
+![Exemplo 7](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_7.png)
 
 
