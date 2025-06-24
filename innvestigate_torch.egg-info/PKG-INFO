@@ -1,0 +1,42 @@
+Metadata-Version: 2.1
+Name: innvestigate_torch
+Version: 0.1
+Summary: Versão PyTorch da biblioteca iNNvestigate para métodos de explicabilidade
+Home-page: https://github.com/seuusuario/innvestigate_torch
+Author: Adriano Lima e Souza
+Author-email: adrianoucam@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: torch
+Requires-Dist: torchvision
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: Pillow
+
+# innvestigate_torch
+
+Uma reimplementaÃ§Ã£o da biblioteca iNNvestigate usando PyTorch. Suporta diversos mÃ©todos de explicabilidade como:
+
+- Gradient (Saliency)
+- Integrated Gradients
+- SmoothGrad
+- LRP (Z-Rule, Epsilon, AlphaBeta)
+- NoiseTunnel
+- GradCAM
+
+## InstalaÃ§Ã£o
+
+```bash
+pip install .
+```
+
+## Exemplo de uso
+
+```python
+from analyzers.gradient import GradientAnalyzer
+analyzer = GradientAnalyzer(model)
+attribution = analyzer.analyze(input_tensor)
+```
