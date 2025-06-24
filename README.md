@@ -22,3 +22,6 @@ from analyzers.gradient import GradientAnalyzer
 analyzer = GradientAnalyzer(model)
 attribution = analyzer.analyze(input_tensor)
 ```
+
+
+O arquivo example.py pode ser usado depois que a biblioteca for instalada
