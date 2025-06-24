@@ -68,16 +68,16 @@ pip install .
 
 
 Exemplo 1 <br>
-![Texto Alternativo](Figura_1.png)
+![Exemplo 1](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_1.png)
 <br>
 Exemplo 2<br>
-![Texto Alternativo](Figura_2.png)
+![Exemplo 2](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_2.png)
 <br>
 Exemplo 3<br>
-![Texto Alternativo](Figura_3.png)
+![Exemplo 3]([Figura_3.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_3.png))
 <br>
 Exemplo 4<br>
-![Texto Alternativo](Figura_4.png)
+![Exemplo 4]([Figura_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_4.png))
 <br>
 
 Exemplo 5<br>
