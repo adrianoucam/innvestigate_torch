@@ -68,24 +68,27 @@ pip install .
 
 
 Exemplo 1 <br>
-![Texto Alternativo](Figura_1.jpg)
+![Texto Alternativo](Figura_1.png)
 <br>
 Exemplo 2<br>
-![Texto Alternativo](Figura_2.jpg)
+![Texto Alternativo](Figura_2.png)
 <br>
 Exemplo 3<br>
-![Texto Alternativo](Figura_3.jpg)
+![Texto Alternativo](Figura_3.png)
 <br>
 Exemplo 4<br>
-![Texto Alternativo](Figura_4.jpg)
+![Texto Alternativo](Figura_4.png)
 <br>
 
 Exemplo 5<br>
-![Texto Alternativo](Figura_5.jpg)
+![Texto Alternativo](Figura_5.png)
 
 <br>
 Exemplo 6<br>
-![Texto Alternativo](Figura_6.jpg)
+![Texto Alternativo](Figura_6.png)
 
+<br>
+Exemplo 7<br>
+![Texto Alternativo](Figura_7.png)
 
 
