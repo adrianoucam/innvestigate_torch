@@ -68,27 +68,28 @@ pip install .
 
 
 Exemplo 1 <br>
-![Exemplo 1](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_1.png)
+![Exemplo 1](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_1.png)
 <br>
 Exemplo 2<br>
-![Exemplo 2](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_2.png)
+![Exemplo 2](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_2.png)
 <br>
 Exemplo 3<br>
-![Exemplo 3]([Figura_3.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_3.png))
+![Exemplo 3]([ Figure_3.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_3.png))
 <br>
 Exemplo 4<br>
-![Exemplo 4]([Figura_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figura_4.png))
+![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_4.png))
 <br>
 
-Exemplo 5<br>
-![Texto Alternativo](Figura_5.png)
+<br>
+Exemplo 4<br>
+![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_5.png))
 
 <br>
-Exemplo 6<br>
-![Texto Alternativo](Figura_6.png)
+Exemplo 4<br>
+![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_6.png))
 
 <br>
-Exemplo 7<br>
-![Texto Alternativo](Figura_7.png)
+Exemplo 4<br>
+![Exemplo 4]([ Figure_4.png](https://github.com/adrianoucam/innvestigate_torch/blob/main/Figure_7.png))
 
 
