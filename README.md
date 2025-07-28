@@ -11,6 +11,11 @@ Uma reimplementação da biblioteca iNNvestigate usando PyTorch. Suporta diverso
 
 ## Instalação
 
+git clone https://github.com/adrianoucam/innvestigate_torch.git
+cd innvestigate_torch
+pip install -e .
+
+
 ```bash
 pip install .
 ```
